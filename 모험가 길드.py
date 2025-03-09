@@ -9,10 +9,10 @@ heroes.sort()
 result = 0 # 결과값 마지막 그룹수
 count = 0 # 현재 세고있는 그룹의 인원수
 
-for a in heroes;
-  count += 1
-  if count = a;
-    result += 1
-    count = 0
+# for a in heroes; 
+#   count += 1 
+#   if count = a;
+#     result += 1
+#     count = 0
 
 print(result)
